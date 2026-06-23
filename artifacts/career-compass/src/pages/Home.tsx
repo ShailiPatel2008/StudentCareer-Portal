@@ -12,7 +12,6 @@ import InterviewPrep from "@/components/InterviewPrep";
 import FreeResources from "@/components/FreeResources";
 import SuccessStories from "@/components/SuccessStories";
 import FAQ from "@/components/FAQ";
-import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 import BackToTop from "@/components/BackToTop";
 import ChatbotButton from "@/components/ChatbotButton";
@@ -34,7 +33,6 @@ export default function Home() {
         <FreeResources />
         <SuccessStories />
         <FAQ />
-        <Contact />
       </main>
       <Footer />
       <BackToTop />
