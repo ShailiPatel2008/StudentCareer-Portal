@@ -72,9 +72,6 @@ export default function Navbar() {
           >
             {theme === "dark" ? <Sun className="w-5 h-5" /> : <Moon className="w-5 h-5" />}
           </Button>
-          <Button onClick={() => scrollTo("#contact")} className="rounded-full px-6">
-            Contact Us
-          </Button>
         </div>
 
         {/* Mobile Toggle */}
@@ -105,9 +102,6 @@ export default function Navbar() {
               {link.name}
             </button>
           ))}
-          <Button onClick={() => scrollTo("#contact")} className="w-full mt-2">
-            Contact Us
-          </Button>
         </div>
       )}
     </header>
