@@ -1,0 +1,345 @@
+Create a modern, professional, fully responsive Student Career Guidance Website called "Career Compass".
+
+Goal:
+Help students explore career options, learn required skills, understand higher education opportunities, prepare for jobs, and make informed career decisions.
+
+Design Requirements:
+- Modern, clean, and premium UI/UX.
+- Attractive color scheme using blue, purple, white, and subtle gradients.
+- Fully responsive for mobile, tablet, and desktop.
+- Smooth scrolling and animations.
+- Professional icons and illustrations.
+- Sticky navigation bar.
+- Footer with quick links, contact information, and social media icons.
+- Fast loading and accessible design.
+
+==================================================
+HOME PAGE
+==================================================
+
+Create a stunning hero section with:
+- Large heading:
+  "Discover Your Future Career Path"
+- Subtitle:
+  "Explore careers, build skills, and achieve your dream profession with expert guidance."
+- Two CTA buttons:
+  "Explore Careers"
+  "Take Career Quiz"
+- Attractive illustration of students and technology careers.
+- Animated statistics:
+  - 50+ Career Paths
+  - 100+ Learning Resources
+  - 10,000+ Students Guided
+
+Mission Section:
+Title:
+"Our Mission"
+Content:
+"To empower students with career knowledge, skill roadmaps, learning resources, and guidance that helps them make confident career decisions."
+
+==================================================
+CAREER PATHS SECTION
+==================================================
+
+Create visually appealing career cards with icons, salary ranges, demand level, and short descriptions.
+
+Include:
+
+1. Software Developer
+   Icon: Code
+   Salary Range: ₹4 LPA – ₹20+ LPA
+   Description: Build websites, applications, and software systems.
+
+2. Data Analyst
+   Salary Range: ₹4 LPA – ₹15+ LPA
+   Description: Analyze data and generate business insights.
+
+3. Artificial Intelligence Engineer
+   Salary Range: ₹6 LPA – ₹30+ LPA
+   Description: Develop AI and machine learning solutions.
+
+4. Cybersecurity Specialist
+   Salary Range: ₹5 LPA – ₹25+ LPA
+   Description: Protect systems and networks from cyber threats.
+
+5. UI/UX Designer
+   Salary Range: ₹4 LPA – ₹18+ LPA
+   Description: Design user-friendly digital experiences.
+
+6. Cloud Engineer
+   Salary Range: ₹6 LPA – ₹25+ LPA
+   Description: Build and manage cloud infrastructure.
+
+7. Digital Marketing Specialist
+   Salary Range: ₹3 LPA – ₹15+ LPA
+   Description: Promote products using digital channels.
+
+8. DevOps Engineer
+   Salary Range: ₹6 LPA – ₹25+ LPA
+   Description: Automate software deployment and operations.
+
+Add:
+- Search careers feature.
+- Career category filter.
+- Learn More button on every card.
+
+==================================================
+SKILLS ROADMAP SECTION
+==================================================
+
+Create interactive roadmap cards.
+
+Software Development Roadmap:
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- React
+- Node.js
+- Databases
+- Projects
+
+Data Analytics Roadmap:
+- Excel
+- SQL
+- Python
+- Power BI
+- Data Visualization
+- Projects
+
+AI Roadmap:
+- Python
+- Mathematics Basics
+- Machine Learning
+- Deep Learning
+- Generative AI
+- AI Projects
+
+Cybersecurity Roadmap:
+- Networking
+- Linux
+- Security Fundamentals
+- Ethical Hacking
+- Security Tools
+
+Cloud Computing Roadmap:
+- Linux
+- Networking
+- AWS
+- Azure
+- Docker
+- Kubernetes
+
+Display roadmap progress visually.
+
+==================================================
+WHICH CAREER FITS YOU? QUIZ
+==================================================
+
+Create an interactive career quiz.
+
+Questions:
+1. Do you enjoy coding?
+2. Do you like working with data?
+3. Do you enjoy creative design?
+4. Are you interested in security and hacking?
+5. Do you enjoy solving business problems?
+6. Do you enjoy learning about AI?
+
+Based on answers, suggest:
+- Software Development
+- Data Analytics
+- AI
+- Cybersecurity
+- UI/UX
+- Cloud Computing
+- Digital Marketing
+
+Display result with:
+- Career recommendation
+- Why it suits you
+- Skills to learn
+- Expected opportunities
+
+==================================================
+HIGHER EDUCATION SECTION
+==================================================
+
+Create cards for:
+
+1. B.Tech / B.E.
+2. BCA
+3. BSc IT
+4. MCA
+5. MBA
+6. M.Tech
+7. Professional Certifications
+
+Certifications:
+- Google Data Analytics
+- AWS Cloud Practitioner
+- Microsoft Azure Fundamentals
+- Cisco CCNA
+- CompTIA Security+
+- Google Digital Marketing
+- IBM Data Science
+
+Provide descriptions and benefits.
+
+==================================================
+TRENDING SKILLS SECTION
+==================================================
+
+Display trending skills in attractive cards.
+
+Include:
+- Artificial Intelligence
+- Data Analytics
+- Cloud Computing
+- Cybersecurity
+- Prompt Engineering
+- Generative AI
+- DevOps
+- Full Stack Development
+- UI/UX Design
+- Digital Marketing
+
+Show:
+- Growth percentage
+- Demand level
+- Beginner-friendly indicator
+
+==================================================
+RESUME TIPS SECTION
+==================================================
+
+Create professional cards with:
+
+- Resume Structure
+- Resume Do's and Don'ts
+- Skills to Mention
+- Common Resume Mistakes
+- ATS-Friendly Resume Tips
+- Portfolio Building Tips
+
+Include downloadable sample resume template.
+
+==================================================
+INTERVIEW PREPARATION SECTION
+==================================================
+
+Include:
+
+Technical Interview Tips
+HR Interview Tips
+Communication Skills Tips
+Group Discussion Tips
+
+Top Questions:
+- Tell me about yourself.
+- Why should we hire you?
+- What are your strengths?
+- What are your weaknesses?
+
+Include sample answers.
+
+==================================================
+FREE LEARNING RESOURCES SECTION
+==================================================
+
+Create resource cards.
+
+Categories:
+Programming:
+- Python
+- Java
+- JavaScript
+
+Data Analytics:
+- SQL
+- Excel
+- Power BI
+
+AI:
+- Machine Learning
+- Generative AI
+
+Cybersecurity:
+- Ethical Hacking
+- Networking
+
+Cloud:
+- AWS
+- Azure
+
+Include:
+- Free courses
+- Tutorials
+- Documentation
+- YouTube learning recommendations
+
+==================================================
+SUCCESS STORIES SECTION
+==================================================
+
+Create testimonial cards.
+
+Example stories:
+- Student became Data Analyst.
+- Student became Software Developer.
+- Student got internship in AI.
+- Student switched career successfully.
+
+Show:
+- Profile image
+- Name
+- Career achieved
+- Success story
+
+==================================================
+FAQ SECTION
+==================================================
+
+Add at least 20 career-related FAQs.
+
+Examples:
+- Which career has the highest demand?
+- How do I become a Data Analyst?
+- Is AI a good career?
+- Which programming language should I learn first?
+- How can I improve my resume?
+
+==================================================
+CHATBOT INTEGRATION SECTION
+==================================================
+
+Reserve space for AI chatbot integration.
+Display floating chatbot button in bottom-right corner.
+Include a placeholder container where Noupe chatbot code can be added later.
+
+==================================================
+CONTACT SECTION
+==================================================
+
+Include:
+- Contact Form
+- Email
+- Phone
+- Social Media Links
+- Feedback Form
+
+==================================================
+EXTRA FEATURES
+==================================================
+
+- Dark mode toggle.
+- Back-to-top button.
+- Smooth animations.
+- Attractive hover effects.
+- Career search functionality.
+- Modern cards and glassmorphism effects.
+- Professional typography.
+- SEO-friendly structure.
+- Clean and well-organized code.
+
+Generate complete HTML, CSS, and JavaScript files with a polished professional appearance similar to a modern educational startup website.
